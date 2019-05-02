@@ -6,13 +6,11 @@ Comes with:
 - 20 professional blog posts commissioned specifically for this niche.
 
 Technology Stacks:
-Angular 6+
-Bootstrap CSS
-Angular Material CSS
-ASP.NET Core 2.0
-Microsoft Sql Server Database
+- Angular 6+
+- Bootstrap CSS + Angular Material CSS
+- ASP.NET Core 2.0
+- Microsoft SQL Server Database
 
-![Picture](https://github.com/codeNovels/affiliate_website_public/blob/master/5.PNG) 
 ![Picture](https://github.com/codeNovels/affiliate_website_public/blob/master/1.PNG) 
 ![Picture](https://github.com/codeNovels/affiliate_website_public/blob/master/2.PNG) 
 ![Picture](https://github.com/codeNovels/affiliate_website_public/blob/master/3.PNG) 
