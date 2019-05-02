@@ -1,5 +1,7 @@
 # For Sale, please email me at codeNovels@gmail.com
 
+For a demos please email me.
+
 Comes with:
 - Database of over 90+ credit cards you can insert your affiliate links when a user applies.
 - The source code with the technology stacks below
