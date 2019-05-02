@@ -4,8 +4,8 @@ For a demo please email me.
 
 Comes with:
 - Database of over 90+ credit cards you can insert your affiliate links when a user applies.
-- The source code with the technology stacks below
 - 20 professional blog posts commissioned specifically for this niche.
+- The source code with the technology stacks below
 
 Technology Stacks:
 - Angular 6+
